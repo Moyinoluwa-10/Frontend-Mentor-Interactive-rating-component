@@ -1,2 +1,2 @@
-# Frontend-Mentor-Interactive-rating-component
-Frontend Mentor | Interactive rating component solution
+# Frontend Mentor | Interactive rating component solution
+
